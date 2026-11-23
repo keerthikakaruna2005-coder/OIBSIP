@@ -16,3 +16,6 @@ A static, responsive landing page for **LeafLine Studio**, a concept brand focus
 
 ## How to Run
 1. Open `index.html` in any modern web browser (Chrome, Edge, Firefox).
+<img width="1897" height="912" alt="Desktopview1" src="https://github.com/user-attachments/assets/b316e824-5cad-43e0-897a-0d68570627f2" />
+<img width="1917" height="917" alt="Mobile view" src="https://github.com/user-attachments/assets/e8e15ee2-751f-4b2d-a129-fe80fd9a7e1c" />
+
