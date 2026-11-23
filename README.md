@@ -14,8 +14,8 @@ All Level 1 internship projects are organized inside dedicated folders in this r
 | Task | Project Title | Folder | Tech Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | **Task 1** | LeafLine Studio — Eco-Friendly Study Gear Landing Page | [`WebDev-L1-LandingPage/`](./WebDev-L1-LandingPage) | HTML5, CSS3 | Completed |
-| **Task 2** | Personal Portfolio Website | `WebDev-L1-Portfolio/` | HTML5, CSS3 | Upcoming |
-| **Task 3** | Temperature Converter Web App | `WebDev-L1-TempConverter/` | HTML5, CSS3, JavaScript | Upcoming |
+| **Task 2** | Personal Portfolio Website | [`WebDev-L1-Portfolio/`](./WebDev-L1-Portfolio) | HTML5, CSS3 | Completed |
+| **Task 3** | Temperature Converter Web App | [`WebDev-L1-TempConverter/`](./WebDev-L1-TempConverter) | HTML5, CSS3, JavaScript | Completed |
 
 ---
 
@@ -24,6 +24,14 @@ All Level 1 internship projects are organized inside dedicated folders in this r
 ### 1. Landing Page — LeafLine Studio
 - **Folder:** [`WebDev-L1-LandingPage/`](./WebDev-L1-LandingPage)
 - **Overview:** A responsive, nature-inspired product landing page built from scratch featuring semantic HTML5 layout, custom CSS3 variables, Flexbox/Grid sections, and viewport responsiveness across desktop and mobile devices.
+
+### 2. Personal Portfolio Website
+- **Folder:** [`WebDev-L1-Portfolio/`](./WebDev-L1-Portfolio)
+- **Overview:** A responsive personal portfolio showcasing skills, internship experience, project cards, resume summary, and contact links using HTML5 and CSS3.
+
+### 3. Temperature Converter Web App
+- **Folder:** [`WebDev-L1-TempConverter/`](./WebDev-L1-TempConverter)
+- **Overview:** An interactive temperature conversion tool built with HTML5, CSS3, and JavaScript that converts between Celsius (°C), Fahrenheit (°F), and Kelvin (K) with numeric input validation and reset support.
 
 ---
 
