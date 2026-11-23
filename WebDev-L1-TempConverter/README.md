@@ -11,3 +11,5 @@ An interactive temperature converter web application built with **HTML5**, **CSS
 - Simultaneous formatted display across all three temperature scales
 - One-click Reset button and mobile-friendly responsive layout
 <img width="1897" height="911" alt="desktopview1" src="https://github.com/user-attachments/assets/82a40176-a252-40d6-9b0b-0782a0aa82ef" />
+<img width="737" height="880" alt="desktopview2" src="https://github.com/user-attachments/assets/d155a7f2-c28f-4604-8c70-a6f305d85aa3" />
+
