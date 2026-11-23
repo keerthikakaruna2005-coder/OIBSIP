@@ -10,3 +10,4 @@ An interactive temperature converter web application built with **HTML5**, **CSS
 - Support for Celsius, Fahrenheit, and Kelvin conversions
 - Simultaneous formatted display across all three temperature scales
 - One-click Reset button and mobile-friendly responsive layout
+- <img width="1917" height="912" alt="desktopview1" src="https://github.com/user-attachments/assets/31fa5b34-d9ba-492a-a23b-e5e395b5797f" />
